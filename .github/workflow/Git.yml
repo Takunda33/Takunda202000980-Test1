@@ -22,4 +22,5 @@ env:
  
  #Post metrics as comments
  echo('## Performance_Metrics') > report.md
+ comments.md >> report.md
  
